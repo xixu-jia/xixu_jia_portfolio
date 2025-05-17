@@ -1,0 +1,4 @@
+PIL
+Pillow
+matplotlib
+streamlit
