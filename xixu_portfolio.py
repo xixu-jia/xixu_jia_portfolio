@@ -128,15 +128,15 @@ elif menu == "Professional Experience":
     
     with col1:
         img1 = Image.open("data analysis.png")
-        st.image(img1, caption="📊 data analysis", use_column_width=True)
+        st.image(img1, caption="📊 data analysis", use_container_width=True)
         
     with col2:
         img2 = Image.open("competitor analysis.png")
-        st.image(img2, caption="🔍 competitor analysis", use_column_width=True)
+        st.image(img2, caption="🔍 competitor analysis", use_container_width=True)
             
     with col3:
         img3 = Image.open("consumer insight.png")
-        st.image(img3, caption="👥 consumer insight", use_column_width=True)
+        st.image(img3, caption="👥 consumer insight", use_container_width=True)
 
 
     # Section 4: Knowledge Sharing & Team Building
@@ -148,11 +148,11 @@ elif menu == "Professional Experience":
     
     with col1:
         img1 = Image.open("guide.png")
-        st.image(img1, caption="I created internal documentation to help onboard new teammates more efficiently", use_column_width=True)
+        st.image(img1, caption="I created internal documentation to help onboard new teammates more efficiently", use_container_width=True)
         
     with col2:
         img2 = Image.open("TB.jpg")
-        st.image(img2, caption="I organized a team-building event for collaboration and fun", use_column_width=True)
+        st.image(img2, caption="I organized a team-building event for collaboration and fun", use_container_width=True)
 
 
 
