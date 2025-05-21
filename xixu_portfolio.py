@@ -19,7 +19,7 @@ if menu == "About Me":
 <div style='max-width: 500px; padding-left: 30px;'>
     <h2 style='font-size: 28px; margin-bottom: 20px;'>Hi, I’m Xixu!</h2>
     <p style='font-size: 20px; line-height: 1.8; margin-bottom: 15px;'>
-        I’m a master’s student in <strong>Digital Marketing & Data Science</strong> at emlyon Business School. I majored in <strong>French</strong> during my undergraduate studies.
+        I’m a master’s student in <strong>Digital Marketing & Data Science</strong> at Emlyon Business School. I majored in <strong>French</strong> during my undergraduate studies.
     </p>
     <p style='font-size: 20px; line-height: 1.8; margin-bottom: 15px;'>
         I have 1+ year of <strong>media planning</strong> experience at Publicis.
@@ -180,7 +180,7 @@ elif menu == "Skills & Projects":
     
     st.write("This is an interactive prototype built using Figma, demonstrating key user flows for a sports community app.")
     
-    st.markdown('[🔗 Click here to view the interactive Figma prototype](https://www.figma.com/proto/rutweOB6a7qcuz8wY51Hm3/GROUP-10---Prototype----Name-of-the-solution-?node-id=1-3&t=Db5ebYFZibiPPuBi-1)')
+    st.markdown('[🔗 Click here to view the interactive Figma prototype](https://www.figma.com/proto/aMdkbf82NIc2hy3XsPPGRO/Prototype-Sports-community-app?node-id=1-3&t=44AaNueyVgDAkzjY-1)')
 
     st.text("")
     st.text("")
