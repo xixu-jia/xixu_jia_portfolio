@@ -47,14 +47,14 @@ if menu == "About Me":
     )
     with col2:
         img1 = Image.open("creative.png")
-        st.image(img1, width=500)
+        st.image(img1, width=250)
     
     st.text("")
     st.text("")
     col3, col4 = st.columns([1.2, 1.8])
     with col3:
         img2 = Image.open("rigorous.jpg")
-        st.image(img2, width=500)
+        st.image(img2, width=250)
 
     with col4:
         st.markdown(
@@ -80,7 +80,7 @@ if menu == "About Me":
     )
     with col6:
         img3 = Image.open("tea.jpg")
-        st.image(img3, width=500)  # 控制图片宽度
+        st.image(img3, width=250) 
       
 
 
