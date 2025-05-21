@@ -227,3 +227,8 @@ elif menu == "Activities & Interests":
     
     with col2:
         st.image("musical2.jpg")
+
+st.markdown(
+    "<p style='font-size: 12px; color: gray; text-align: center;'>This portfolio was built with Python and Streamlit.</p>",
+    unsafe_allow_html=True
+)
