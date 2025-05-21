@@ -90,7 +90,7 @@ elif menu == "Professional Experience":
 
     # Section 1: Summary Chart
     st.header("📊 Key Deliverables Overview")
-    st.write("Below is a summary of major outputs during my time at Publicis:")
+    st.subheader("Below is a summary of major outputs during my time at Publicis:")
 
     labels = ["New Product Strategies", "Thematic Research", "Weekly Reports", "Monthly Data Reports"]
     values = [9, 11, 76, 19]
@@ -122,7 +122,7 @@ elif menu == "Professional Experience":
     from PIL import Image
     st.header("🧩 Other works")
     
-    st.write("Here are snapshots from other professional tasks I contributed to.")
+    st.subheader("Here are snapshots from other professional tasks I contributed to.")
     
     col1, col2, col3 = st.columns(3)
     
