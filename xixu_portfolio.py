@@ -227,11 +227,10 @@ elif menu == "Activities & Interests":
     
     with col2:
         st.image("musical2.jpg")
-
-
-st.text("")
-st.text("")
-st.markdown(
+    
+    st.text("")
+    st.text("")
+    st.markdown(
     """
     <div style='text-align: right; font-size: 14px; color: gray;'>
         <p>This portfolio was built with Python and Streamlit.</p>
