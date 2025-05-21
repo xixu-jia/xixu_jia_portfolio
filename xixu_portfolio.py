@@ -19,13 +19,13 @@ if menu == "About Me":
 <div style='max-width: 500px; padding-left: 30px;'>
     <h2 style='font-size: 28px; margin-bottom: 20px;'>Hi, I’m Xixu!</h2>
     <p style='font-size: 20px; line-height: 1.8; margin-bottom: 15px;'>
-        I’m a master’s student in <strong>Digital Marketing & Data Science</strong> at emlyon Business School.
+        I’m a master’s student in <strong>Digital Marketing & Data Science</strong> at emlyon Business School. I majored in <strong>French</strong> during my undergraduate studies.
     </p>
     <p style='font-size: 20px; line-height: 1.8; margin-bottom: 15px;'>
-        I have 1+ year of <strong>media planning</strong> experience at Publicis (for Huawei).
+        I have 1+ year of <strong>media planning</strong> experience at Publicis.
     </p>
     <p style='font-size: 20px; line-height: 1.8;'>
-        I’m passionate about <strong>data-driven marketing</strong>, <strong>campaign strategy</strong>, and <strong>consumer insights</strong>.
+        I’m skilled in <strong>data-driven marketing</strong>, <strong>campaign strategy</strong>, and <strong>consumer insights</strong>.
     </p>
 </div>
         """,
