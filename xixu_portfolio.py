@@ -218,7 +218,7 @@ elif menu == "Activities & Interests":
         st.video("https://youtu.be/PaUn2W27z1s?si=1R5sIveJD2KqLUnL")
 
     st.subheader("""
-    🎵 A huge fan of musical  
+    🎵 A huge fan of musical theater  
     """)
     col1, col2 = st.columns(2)
     
@@ -228,7 +228,15 @@ elif menu == "Activities & Interests":
     with col2:
         st.image("musical2.jpg")
 
+
+st.text("")
+st.text("")
 st.markdown(
-    "<p style='font-size: 12px; color: gray; text-align: center;'>This portfolio was built with Python and Streamlit.</p>",
+    """
+    <div style='text-align: right; font-size: 14px; color: gray;'>
+        <p>This portfolio was built with Python and Streamlit.</p>
+        <p>Thank you for viewing.</p>
+    </div>
+    """,
     unsafe_allow_html=True
 )
