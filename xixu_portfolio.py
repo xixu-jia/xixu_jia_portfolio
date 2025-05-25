@@ -233,8 +233,8 @@ elif menu == "Activities & Interests":
     st.markdown(
     """
     <div style='text-align: right; font-size: 14px; color: gray;'>
-        <p>This portfolio was built with Python and Streamlit.</p>
-        <p>Thank you for viewing.</p>
+        <p>This portfolio was built with Python and Streamlit</p>
+        <p>Thank you for viewing</p>
     </div>
     """,
     unsafe_allow_html=True
